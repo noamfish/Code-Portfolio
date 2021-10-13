@@ -1,0 +1,2 @@
+This folder contains everything to do with my handling of unit interactions in the game.  
+Each unit has compositional components, which encapsulate their different functions, but work together using a statemachine to simplify capabilities at a given time. 
